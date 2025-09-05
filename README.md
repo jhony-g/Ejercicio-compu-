@@ -1,0 +1,2 @@
+# Ejercicio-compu-
+Ejercicio compu 
